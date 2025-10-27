@@ -123,4 +123,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # ImgBB API
-IMGBB_API_KEY = 'e9dc6921620ba2ba7b5d0bbe53b1e1f7'
+IMGBB_API_KEY = ''
